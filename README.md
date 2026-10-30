@@ -1,4 +1,4 @@
-# 🏋️ SEJAFIT — Website Institucional para Academia
+# 🏋️ SEJAFIT - Website Institucional para Academia
 
 ![SEJAFIT Banner](https://sejafitnness.netlify.app/img/sobre.jpeg)
 
